@@ -36,4 +36,17 @@ El código define una clase Tile que representa una pieza del rompecabezas. Aqu�
 - TileView: Propiedad pública que proporciona acceso a la vista (ContentView) que representa la pieza del rompecabezas.
 ![image](https://github.com/FranklinJPC/Xuzzle/assets/113868310/0dd0f9a5-b02e-4334-88b7-0d0d20b87faa)
 
+# Descripción de la Herramienta
+
+Con la ayuda de esta herramienta, [GeneradorRompecabezas](https://onestop.tools/), podemos generar fácilmente una pieza de rompecabezas a partir de cualquier imagen. La herramienta divide la imagen en segmentos, lo que resulta útil para adaptarla al juego de rompecabezas.
+
+## Generación de Rompecabezas
+![image](https://github.com/FranklinJPC/Xuzzle/assets/113868310/64ccb8ec-0a62-4b2f-91b1-4b513a174df6)
+Para generar un rompecabezas con esta herramienta, sigue estos pasos:
+1. Visita la [GeneradorRompecabezas](https://onestop.tools/).
+2. Sube la imagen que deseas convertir en un rompecabezas.
+3. Ajusta las configuraciones según tus preferencias (número de piezas, dificultad, etc.).
+4. Haz clic en el botón de generar para obtener tu rompecabezas único.
+
+![image](https://github.com/FranklinJPC/Xuzzle/assets/113868310/806a1921-26bd-42ff-899a-0b468622a566)
 
