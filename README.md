@@ -21,6 +21,7 @@ El código define una clase Tile que representa una pieza del rompecabezas. Aqu�
 - El constructor toma como parámetros las coordenadas de fila (row) y columna (col) de la pieza del rompecabezas que se está creando.
 - Se utiliza el diccionario ImageNames para obtener el nombre de la imagen asociada a la posición dada.
 - Se crea una nueva instancia de ContentView llamada TileView, que contiene un Image con la imagen correspondiente cargada desde el archivo. Se utiliza un margen (Padding) de 1 para dar un pequeño espacio alrededor de la imagen.
+
 ![image](https://github.com/FranklinJPC/Xuzzle/assets/113868310/6361f05b-0d02-40ec-9973-fd4db51cdada)
 
 
