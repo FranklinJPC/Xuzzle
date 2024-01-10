@@ -42,11 +42,14 @@ Con la ayuda de esta herramienta, [GeneradorRompecabezas](https://onestop.tools/
 
 ## Generación de Rompecabezas
 ![image](https://github.com/FranklinJPC/Xuzzle/assets/113868310/64ccb8ec-0a62-4b2f-91b1-4b513a174df6)
+
 Para generar un rompecabezas con esta herramienta, sigue estos pasos:
 1. Visita la [GeneradorRompecabezas](https://onestop.tools/).
 2. Sube la imagen que deseas convertir en un rompecabezas.
 3. Ajusta las configuraciones según tus preferencias (número de piezas, dificultad, etc.).
 4. Haz clic en el botón de generar para obtener tu rompecabezas único.
+
+## Resultado Final del Puzzle
 
 ![image](https://github.com/FranklinJPC/Xuzzle/assets/113868310/806a1921-26bd-42ff-899a-0b468622a566)
 
